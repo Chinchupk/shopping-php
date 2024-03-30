@@ -1,0 +1,36 @@
+.banner{
+
+    background-image:url("images/image.webp") !important;
+    background-size: cover;
+    padding-top: 200px !important;
+    padding-bottom: 200px !important;
+}
+p.who-para{
+    font-size: 20px;
+}
+
+a.readmore{
+    text-decoration: none;
+    border: 1px solid bisque;
+    padding: 10px;
+    color: bisque;
+    display: inline-block;
+
+}
+a.readmore:hover{
+    background-color: black;
+    color: white;
+}
+
+.sec1{
+    background-image: url(images/background\ image.jpg);
+    background-size: cover;
+}
+
+.pro_image{
+    height: 200px;
+    margin-bottom: 15px;
+}
+
+
+
